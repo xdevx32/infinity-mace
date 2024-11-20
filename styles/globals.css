@@ -1,5 +1,13 @@
+/* globals.css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
-    margin: 0;
-    font-family: 'Arial', sans-serif;
-    background: linear-gradient(to right, #f9f9f9, #f1f1f1);
-  }
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to right, #e0eafc, #cfdef3);
+  color: #333;
+  overflow-x: hidden;
+}
